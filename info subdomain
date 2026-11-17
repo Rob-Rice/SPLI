@@ -1,0 +1,116 @@
+<header>
+<style>
+a[data-hs-anchor='true'] {
+    display: block;
+    position: relative;
+    top: -175px;
+    visibility: hidden;
+}
+  
+/* Value Stack Hack */
+  .value-stack-flex {
+    align-items: center;
+  }
+  .value-stack-wrap {
+    background-color: rgb(0,0,0,.4);
+  }
+  .value-item {
+    max-width: 430px;
+    display: flex;
+    align-items: initial;
+	background-color: rgb(0,0,0,0) !important;
+  }
+  .value-title {
+    padding-left: 0;
+  }
+	.value-stack-flex .value-title p {
+		font-size: 18px !important;
+		font-weight: 600 !important;
+	}
+  .value-image {
+    text-align: center;
+  }
+  @media (min-width: 992px) {
+    .value-stack-flex {
+        flex-flow: row nowrap;
+        justify-content: center;
+    }
+  }
+/**********/
+
+.service-title {
+	font-size: 22px;
+	font-style: normal;
+	font-weight: normal;
+	text-decoration: none;
+	font-family: Oswald,sans-serif;
+	margin: 0 0 20px 0;
+}  
+  
+</style>
+
+<!-- MOVED TO GOOGLE TAG MANAGER -->
+<!-- ClickCease.com tracking -->
+<script>
+var script = document.createElement('script');
+script.async = true;
+script.type = 'text/javascript';
+script.src = 'https://www.clickcease.com/monitor/stat.js';
+document.head.appendChild(script);
+</script>
+<!-- ClickCease.com tracking -->
+
+<!-- MOVED TO GOOGLE TAG MANAGER -->
+<!-- <script>
+  gtag('config', 'AW-331096686/-lFTCIv2iOYCEO7E8J0B', {
+    'phone_conversion_number': '800-966-5562'
+  });
+</script> -->
+
+<!-- Meta Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '389154109794416');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=389154109794416&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Meta Pixel Code -->
+<!-- Global site tag (gtag.js) - Google Ads: 331096686 -->
+<!-- <script async src="https://www.googletagmanager.com/gtag/js?id=AW-331096686"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-331096686');
+</script> -->
+
+<!-- Hotjar Tracking Code for https://info.spli.com -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:3072644,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+<header>
+
+
+<footer>
+
+
+
+
+</footer>
