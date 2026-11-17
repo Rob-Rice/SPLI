@@ -1,0 +1,240 @@
+<header>
+<!-- chatgpt ads  -->
+<script>
+  !function(w, d, s, u) {
+    if (w.oaiq) return;
+    var q = function() {
+      q.q.push(arguments);
+    };
+    q.q = [];
+    w.oaiq = q;
+    var j = d.createElement(s);
+    j.async = 1;
+    j.src = u;
+    var f = d.getElementsByTagName(s)[0];
+    f.parentNode.insertBefore(j, f);
+  }(window, document, "script", "https://bzrcdn.openai.com/sdk/oaiq.min.js");
+
+  oaiq("init", {
+    pixelId: "4brKSB74EQknJxemC5XT1m",
+    debug: true
+  });
+</script>
+<script>
+  oaiq("measure", "registration_completed", {
+    type: "customer_action",
+    amount: 0,
+    currency: "USD"
+  });
+</script>
+
+
+<style>
+  a[data-hs-anchor=true]{display:block;position:relative;top:-175px;visibility:hidden}
+  /* Value Stack Hack */
+  .value-stack-flex{-webkit-box-align:center;-ms-flex-align:center;align-items:center}
+  .value-stack-wrap{background-color:rgb(0,0,0,.4)}
+  .value-item{max-width:430px;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:initial;-ms-flex-align:initial;align-items:initial;background-color:rgb(0,0,0,0)!important}
+  .value-title{padding-left:0}
+  .value-stack-flex .value-title p{font-size:18px!important;font-weight:600!important}
+  .value-image{text-align:center}
+  @media (min-width: 992px) {
+    .value-stack-flex{-webkit-box-orient:horizontal;-webkit-box-direction:normal;-ms-flex-flow:row nowrap;flex-flow:row nowrap;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}
+  }
+  /**********/
+  .service-title{font-size:22px;font-style:normal;font-weight:400;text-decoration:none;font-family:Oswald,sans-serif;margin:0 0 20px 0}  
+  /* system page */
+  header.system-logo>img {
+    max-width: 120px !important;
+  }
+</style>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-331096686"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-331096686');
+</script>
+
+
+
+<!-- Meta Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+   if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+   n.queue=[];t=b.createElement(e);t.async=!0;
+   t.src=v;s=b.getElementsByTagName(e)[0];
+   s.parentNode.insertBefore(t,s)}(window, document,'script',
+                                   'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '389154109794416');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+               src="https://www.facebook.com/tr?id=389154109794416&ev=PageView&noscript=1"
+               /></noscript>
+<!-- End Meta Pixel Code -->
+<!-- Global site tag (gtag.js) - Google Ads: 331096686 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-331096686"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-331096686');
+</script>
+
+
+<!-- Utility Navigation
+<style>
+  .header .off-canvas-inner { overflow-y:auto!important; }
+  .header .utility-nav li.call-now-li>a{-webkit-appearance:none!important;display:inline-block;position:relative;color:#fff;font-family:Oswald,sans-serif;font-size:15px;font-style:normal;font-weight:500;line-height:1.3;text-decoration:none;text-align:center;text-transform:uppercase;letter-spacing:1px;border-radius:50px;background-color:#fca311;border:0;padding:8px 25px;margin-top:0;margin-bottom:0;-webkit-transition:all .1s ease 0s;-o-transition:all .1s ease 0s;transition:all .1s ease 0s}
+  .header .utility-nav li.call-now-li>a:focus,
+  .header .utility-nav li.call-now-li>a:hover{color:#444;cursor:pointer;text-decoration:none;background-color:#f7f7f7;border:0}
+  @media(min-width:768px) {
+    /*.header.sticky-header { transform:translateY(-38px); }*/
+  }
+  @media(min-width:992px) {
+    .header .utility-nav li.call-now-li>a { font-size:18px; }
+    /*.header.sticky-header { transform:translateY(-39px); }*/
+  }
+</style> -->
+<!-- Start of HubSpot Embed Code -->
+<script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/8778878.js"></script>
+<!-- End of HubSpot Embed Code -->
+<!-- Hotjar Tracking Code for https://www.spli.com/ -->
+<script>
+  (function(h,o,t,j,a,r){
+    h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+    h._hjSettings={hjid:3461745,hjsv:6};
+    a=o.getElementsByTagName('head')[0];
+    r=o.createElement('script');r.async=1;
+    r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+    a.appendChild(r);
+  })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+
+<script type="text/javascript" src="https://cdn.callrail.com/companies/161596848/b67c46ef05d60937d965/12/swap.js"></script>
+
+
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5S5FHVZ2');</script>
+<!-- End Google Tag Manager -->
+</header>
+
+<footer>
+<style>
+  .header-utility{padding:20px 0}
+  .utility-nav ul li:nth-child(2) a,.utility-nav ul li:nth-child(2) a:visited,.utility-nav ul li:nth-child(3) a,.utility-nav ul li:nth-child(3) a:visited{color:#fca311;font-weight:700}
+  .utility-nav ul li:nth-child(2) a:focus,.utility-nav ul li:nth-child(2) a:hover,.utility-nav ul li:nth-child(3) a:focus,.utility-nav ul li:nth-child(3) a:hover{color:#fff}
+  .utility-nav ul li:first-child a:hover{text-decoration:underline}
+  .off-canvas-inner{padding:0}
+  .off-canvas-inner .nav,.utility-nav.off-canvas{padding:0 25px}
+  .utility-nav.off-canvas{background:#48181e}
+  .utility-nav.off-canvas ul{border:none}
+  .utility-nav.off-canvas ul li:last-child{padding-bottom:25px}
+  .column-content ul ul{list-style-type:circle;margin:0}
+  .alert-bar p{color:#223254}
+  .alert-bar a,.alert-bar a:visited{color:#223254;text-decoration:underline}
+  .alert-bar a:focus,.alert-bar a:hover{color:#000}
+  h3.service-title{color:#444}
+  .test-content:after,.test-content:before{display:none}
+  .lang_list_class li a{font-family:Oswald;font-size:16px}
+  .footer-bottom{background:#7c2128}
+  .nav .hs-menu-wrapper.hs-menu-flow-horizontal>ul li.hs-item-has-children ul.hs-menu-children-wrapper,.nav ul ul{max-height:none}
+  .nav .hs-menu-wrapper.hs-menu-flow-horizontal>ul li.hs-item-has-children ul.hs-menu-children-wrapper,.nav ul ul{max-height:none;opacity:1;visibility:initial}
+  input[type=file i]{color:#fff;background:0 0;padding:10px 0}
+  /* START fixing forms with 3 fields per row */
+  .hs-recaptcha{padding:0 10px}
+  fieldset.form-columns-1 textarea.hs-input{width:100%!important}
+  fieldset.form-columns-3{padding:0 10px}
+  .form-wrapper.white{color:#fff}
+  @media (min-width:480px){
+    fieldset.form-columns-3{padding-left:10px}
+  }
+  @media (min-width: 768px){
+    .hs-form-field ul.inputs-list.multi-container li{display:inline-block;width:50%}
+  }
+  @media (min-width:992px){
+    .hs-recaptcha,fieldset.form-columns-3{padding-left:20px}
+    .service-item,.service-item:visited{width:31%}
+  }
+  /* END fixing forms with 3 fields per row */
+  .nav ul li:nth-child(2).hs-menu-item.hs-menu-depth-1.hs-item-has-children.arrow>a{cursor:default}
+  .nav ul li:nth-child(2).hs-menu-item.hs-menu-depth-1.hs-item-has-children.arrow>a:hover{color:#fff}
+  .white form select option{color:#000}
+</style>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-331096686"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-331096686');
+</script>
+
+<script>
+  $(document).ready(function(){ 
+    $(".nav ul li:nth-child(2).hs-menu-item.hs-menu-depth-1.hs-item-has-children.arrow > a").removeAttr('href');   
+    /*Utility Navigation*/
+    $('.header .utility-nav li').each(function(){
+      let _class_ = $(this).children('a').text().toLowerCase().replace(/\'+/g, '').replace(/\&nbsp;+/g, '').replace(' /', '').replace(/\s+/g, '-');
+      $(this).addClass(_class_+'-li');
+    });
+    /**/
+    $('a[href]').each(function() {
+      var url=$(this).attr('href').split('?hsLang=en')[0];
+      $(this).attr('href', url);
+    });
+  });
+</script>
+
+<!-- NAS - MC -->
+ <script async src="https://js.adsrvr.org/up_loader.3.0.0.js"></script>
+        <script>
+            window.ttdConversionEventsLayer = window.ttdConversionEventsLayer || [];
+            function ttdConversionEvents() {
+                window.ttdConversionEventsLayer.push(arguments);
+            }
+            
+            ttdConversionEvents("init", {
+                advertiserId: "xz7nma3",
+                pixelIds: ["lz7tk5q"]
+            });
+
+            ttdConversionEvents("event", {});
+        </script>
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5S5FHVZ2"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<script type="text/javascript">
+_linkedin_partner_id = "9137162";
+window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+</script><script type="text/javascript">
+(function(l) {
+if (!l){window.lintrk = function(a,b){window.lintrk.q.push([a,b])};
+window.lintrk.q=[]}
+var s = document.getElementsByTagName("script")[0];
+var b = document.createElement("script");
+b.type = "text/javascript";b.async = true;
+b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";;
+s.parentNode.insertBefore(b, s);})(window.lintrk);
+</script>
+<noscript>
+<img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=9137162&fmt=gif"; />
+</noscript>
+</footer>
